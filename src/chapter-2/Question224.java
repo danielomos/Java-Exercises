@@ -23,7 +23,7 @@ public class Question224{
 		System.out.print("Enter fifth integer: ");	
 		int num5 = input.nextInt();	
 		
-		smallest = num1;		
+		int smallest = num1;
 		if (num2 < smallest)
 			smallest = num2;
 		
@@ -36,7 +36,7 @@ public class Question224{
 		if (num5 < smallest)
 			smallest = num5;
 		
-		largest = num1;	
+		int largest = num1;
 		if (num2 > largest)
 			largest = num2;
 		

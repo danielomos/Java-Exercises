@@ -1,4 +1,4 @@
-/*Write an application that displays the numbers 1 to 4 on the same line, with each pair of adjacet numbers separated by one space*/
+/*Write an application that displays the numbers 1 to 4 on the same line, with each pair of adjacet numbers separated by one space
 
 //Answer
 public class Question214 {
@@ -25,3 +25,4 @@ public class Question214 {
 
 
 }
+*/

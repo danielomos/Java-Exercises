@@ -1,12 +1,15 @@
 /*using only the programming techniques you learned in this chapter, write an application that calculates the squares and cubes of the integerbers from 0 to 10 and prints the resulting values in table format, as shown below.*/
 
 //Answer
-public class Question231{ 
+
+
+import java.util.Scanner;
+public class Question231{
 
 	
-	import java.util.Scanner;
 
-public class Wont{
+
+
  public static void main(String[] args) 	{
 	
         int integer;

@@ -1,5 +1,7 @@
 
+/*
 what does the following code print
+
 
 System.out.printf("  ****%n ******%n*******%n ******%n  ****%n");
 
@@ -9,4 +11,4 @@ System.out.printf("  ****%n ******%n*******%n ******%n  ****%n");
 *******
  ******
   ****
-
+*/
