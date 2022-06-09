@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class HeartRateCalculatorApplication {
     public static void main(String [] args){
+
         Scanner input = new Scanner(System.in);
         HeartRateCalculator mairo = new HeartRateCalculator("","",0,0,0);
 
